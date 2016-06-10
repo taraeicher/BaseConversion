@@ -1,1 +1,1 @@
-# BaseConversion
+This C program converts a given number from a given input base to a given output base. All input is collected from the user through stdin and undergoes character-by-character validation. The number is first converted to decimal, then to the output base. After conversion, the number is printed for the user through stdout. In the case of a user error, the user is prompted to choose between entering a new number and entering new bases. Unix makefile is provided.
